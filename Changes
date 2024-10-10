@@ -1,0 +1,23 @@
+Revision history for Statistics-Running
+
+0.14	2024-10-10
+        Refreshed.
+
+0.13	2019-02-16
+	Added sum(), abs_sum() subs.
+	Added mean() to pod.
+
+0.12	2018-12-20
+	Fixed histogram-recalculate bugs
+
+0.03	2018-12-20
+	Added histogram_enable(), histogram_disable() and
+	histogram_reset() and enhanced histogram functionality
+
+0.02	2018-12-19
+	Make tests work for perl version < 5.10 by replacing
+	the defined-or operator: //
+
+0.01    2018-12-18
+        First version, released on an unsuspecting world.
+
